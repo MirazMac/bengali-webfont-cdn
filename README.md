@@ -10,4 +10,8 @@ CDN of popular Bengali fonts serving via RawGit.
 ```css
 @import url('https://cdn.rawgit.com/mirazmac/bengali-webfont-cdn/master/solaimanlipi/style.css');
 ```
+#### Usage
+```css
+font-family: 'SolaimanLipi', serif;
+```
 More coming soon..
