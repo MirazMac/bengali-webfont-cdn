@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'SolaimanLipi';
 	src: url('SolaimanLipiNormal.eot');
-	src: local('SolaimanLipi'), local('SolaimanLipiNormal'),
+	src: local('SolaimanLipi'), local('SolaimanLipi'),
 		url('SolaimanLipiNormal.eot?#iefix') format('embedded-opentype'),
 		url('SolaimanLipiNormal.woff') format('woff');
 	font-weight: normal;
